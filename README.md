@@ -23,3 +23,6 @@ I am focused on strengthening my core programming skills and building a solid fo
 * **Clean Code Practices:** Learning how to write readable, maintainable, and efficient code.
 * **Modern Web Frameworks:** Deep diving into React and its ecosystem.
 * **Problem Solving:** Sharpening my logic by solving real-world coding challenges.
+
+### 🎓 Certifications
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%230a0a23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](LINK_ĐẾN_CHỨNG_CHỈ_CỦA_BẠN)
