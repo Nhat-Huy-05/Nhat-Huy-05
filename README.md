@@ -44,13 +44,15 @@ I'm focused on strengthening my core programming skills and building a solid fou
 
 ## 📁 Notable Projects
 
-### 🎨 Project Portfolio (Coming Soon)
-I'm currently working on several exciting projects to showcase my skills:
-- **Interactive React Components** - Reusable, accessible UI components
-- **Next.js Full-Stack Projects** - Combining frontend excellence with backend capabilities
-- **Responsive Web Designs** - Mobile-first approach with Tailwind CSS
+### 🐬 Dolfin — Web3 DeFi Yield Optimization Platform
+> Arbitrum Hackathon Project · [View Project](https://arbitrum-london.hackquest.io/projects/Dolfin)
 
-*More projects coming soon! Check back regularly for updates.*
+An AI-powered DeFi yield optimization platform built on **Arbitrum**, helping users automatically allocate assets to the best-performing strategies.
+
+- **Role:** Frontend Developer
+- **Responsibilities:** Designed and built the **landing page** and **in-app UI** (dashboard, vault listings, strategy cards, asset detail pages)
+- **Tech:** Next.js · TypeScript · Tailwind CSS · Privy (wallet auth) · Framer Motion
+- **Highlights:** Integrated Web3 wallet flows, EIP-712 signing, scroll-triggered animations, and a luxury dark UI theme
 
 ---
 
